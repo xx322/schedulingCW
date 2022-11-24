@@ -1,0 +1,11 @@
+p = {
+	'vii':    21,
+	'blur':   6,
+	'night':  25,
+	'onnx':   4,
+	'emboss': 2,
+	'muse':   17,
+	'wave':   13
+}
+
+Cmax = 259
